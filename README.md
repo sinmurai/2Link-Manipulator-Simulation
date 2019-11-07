@@ -4,6 +4,7 @@
 そのため、外部のライブラリは使用していない。
 
 ![figure](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sin6rai/20080927/20080927001629.jpg)
+
 質力　　　 m1, m2
 リンク長　　 L1, L2
 リンク中心長 Lc1, Lc2　
@@ -30,6 +31,7 @@ cp1,cp2,cd1,cd2 : コントローラ係数
 dv1,dv2 : 目標角度
 
 ![figure2](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sin6rai/20080930/20080930162420.jpg)
+
 システム系入力  :  θd˙ 、 θd
 アームモデル入力  :  コントローラ出力τ
 システム系出力  :  θ˙ 、 θ
